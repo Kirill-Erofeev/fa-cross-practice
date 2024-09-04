@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/Kirill-Erofeev/fa-cross-practice/blob/main/Без%20имени%20640.png))
+![alt text](https://github.com/Kirill-Erofeev/fa-cross-practice/blob/main/Без%20имени%20640.png)
 
 Фреймворки и библиотеки для кроссплатформенной разработки
 =============================================================================
